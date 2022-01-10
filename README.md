@@ -1,0 +1,2 @@
+# Recenzii-filme
+Realizați o interfață grafică care permite adăugarea de recenzii pentru filme. Pentru fiecare film, utilizatorul aplicației poate adăuga un titlu, anul apariției, o notă acordată, o scurtă recenzie și data recenziei. Se dorește ca aplicația să includă următoarele funcționalități: -adăugarea unei recenzii pentru un film - actualizarea datelor (editarea/completarea unei recenzii deja existente) - vizualizarea tuturor recenziilor -sortarea recenziilor după nota acordată filmului -găsirea/filtrarea recenziilor după un cuvânt cheie dat
